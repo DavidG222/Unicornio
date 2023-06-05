@@ -1,0 +1,21 @@
+.Header{
+    display: flex;
+    border: 1px solid black;
+    height: 200px;
+}
+.Hola{
+    padding: 20px ;
+}
+.David{
+    padding: 20px;
+}
+.main{
+    padding: 8px;
+    border:1px solid black
+}
+.Header{
+    background-image: url(https://t3.ftcdn.net/jpg/02/36/12/24/360_F_236122432_Y8NBzen6KtGssppNNrK85N8FJPr2JLkh.jpg);
+}
+.footer{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/02/70/25/29/1000_F_270252931_bHV05iyLL4pZTnzH5S78Pc8dMpXh1mMS.jpg);
+}
